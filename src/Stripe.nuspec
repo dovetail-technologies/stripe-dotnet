@@ -23,4 +23,7 @@
 			<frameworkAssembly assemblyName="System.Web.Extensions" targetFramework="net40" />
 		</frameworkAssemblies>
 	</metadata>
+	<files>
+		<file src="bin\Release\Stripe.dll" target="lib\Stripe.dll" />
+	</files>
 </package>
